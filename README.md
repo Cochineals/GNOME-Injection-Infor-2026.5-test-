@@ -5,4 +5,4 @@ Templates:
 
 2026.5.XX
 
-Amplitude: XX(pT)   &nbsp&nbsp&nbsp    Time(Encrypted):XXXXXX   &nbsp&nbsp&nbsp    Secret Key:XXXXXX
+Amplitude: XX(pT)       Time(Encrypted):XXXXXX       Secret Key:XXXXXX
