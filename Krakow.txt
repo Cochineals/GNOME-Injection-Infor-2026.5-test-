@@ -11,3 +11,8 @@ Sorry for no injection today as there is some problems with Beijing's Laser.
 2026.6.25
 
 Amplitude: -279.45p(pT) UTC_Time(Encrypted):LNOEHN  Secret Key:124
+
+
+2026.6.26
+
+Amplitude: 1564.54p(pT) UTC_Time(Encrypted):KLHHIC  Secret Key:123
