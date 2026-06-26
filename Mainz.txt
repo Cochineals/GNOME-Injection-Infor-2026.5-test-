@@ -11,3 +11,9 @@ Sorry for no injection today as there is some problems with Beijing's Laser.
 2026.6.25
 
 Amplitude: 3350.77(pT) UTC_Time(Encrypted):KIHBOK  Secret Key:123
+
+
+2026.6.26
+
+Amplitude: -2638.22pT(pT) UTC_Time(Encrypted):LKOONI  Secret Key:124
+
