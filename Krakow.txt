@@ -46,3 +46,8 @@ Amplitude:5555d57c02 D918    Polarity: +    UTC_Time(Encrypted):LMHKNI  Secret K
 2026.7.10
 
 Amplitude:5555d57c02 945B    Polarity: +    UTC_Time(Encrypted):MLMIIH  Secret Key:125
+
+
+2026.7.13
+
+Amplitude:5555d57c02 4ED2    Polarity: -    UTC_Time(Encrypted):LKMOME  Secret Key:125 
