@@ -15,22 +15,22 @@ Amplitude: 3350.77(pT) UTC_Time(Encrypted):KIHBOK  Secret Key:123
 
 2026.6.26
 
-Amplitude: -2638.22pT(pT) UTC_Time(Encrypted):LKOONI  Secret Key:124
+Amplitude: -2638.22(pT) UTC_Time(Encrypted):LKOONI  Secret Key:124
 
 
 2026.6.29
 
-Amplitude: -7138.94pT(pT) UTC_Time(Encrypted):IKJCJH  Secret Key:123
+Amplitude: -7138.94(pT) UTC_Time(Encrypted):IKJCJH  Secret Key:123
 
 
 2026.6.30
 
-Amplitude: -7138.94pT(pT) UTC_Time(Encrypted):JIIBJH  Secret Key:123
+Amplitude: -7138.94(pT) UTC_Time(Encrypted):JIIBJH  Secret Key:123
 
 
 2026.7.1
 
-Amplitude: -175.33pT(pT) UTC_Time(Encrypted):KHKBKB  Secret Key:123
+Amplitude: -175.33(pT) UTC_Time(Encrypted):KHKBKB  Secret Key:123
 
 
 2026.7.8
@@ -45,14 +45,19 @@ Amplitude: -8576.48pT(pT) UTC_Time(Encrypted):JKNMHO  Secret Key:123
 
 2026.7.10
 
-Amplitude: -8555.233pT(pT) UTC_Time(Encrypted):KJKOON  Secret Key:123
+Amplitude: -8555.233(pT) UTC_Time(Encrypted):KJKOON  Secret Key:123
 
 
 2026.7.13
 
-Amplitude: 1005.23pT(pT) UTC_Time(Encrypted):JMKIKC  Secret Key:123
+Amplitude: 1005.23(pT) UTC_Time(Encrypted):JMKIKC  Secret Key:123
 
 
 2026.7.15
 
-Amplitude: -8555.233pT(pT) UTC_Time(Encrypted):JKNMHO  Secret Key:123
+Amplitude: -8555.233(pT) UTC_Time(Encrypted):JKNMHO  Secret Key:123
+
+
+2026.7.23
+
+Amplitude: 1005.23(pT) UTC_Time(Encrypted):KCHOIH  Secret Key:123
